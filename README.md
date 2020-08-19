@@ -1,16 +1,17 @@
-### Hi there 👋
+# ![Alt text](./logo.svg)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbegin0dev%2Fhit-counter&count_bg=%2300D0FF&title_bg=%230071FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**begin0dev/begin0dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Begin0dev's github stats](https://github-readme-stats.vercel.app/api?username=begin0dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begin0dev&theme=tokyonight&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p>
+  <em>
+    Hello! I am a developer.<br/>
+    Welcome my repo!<br/>
+  </em>  
+</p>
+
+
+### How to contact 📫
+ - Email: prosonic1@gmail.com
