@@ -12,4 +12,4 @@
 
 ### 📫 How to contact
 - EMAIL: prosonic1@gmail.com
-- RESUME: [링크](https://cliff-sun-fb3.notion.site/6160b3d8347e473687ab943adb703ccc)
+- RESUME: [link](https://cliff-sun-fb3.notion.site/6160b3d8347e473687ab943adb703ccc)
