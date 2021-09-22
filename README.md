@@ -11,5 +11,5 @@
 
 
 ### 📫 How to contact
-- EMAIL: prosonic1@gmail.com
-- RESUME: [link](https://cliff-sun-fb3.notion.site/6160b3d8347e473687ab943adb703ccc)
+- Email: prosonic1@gmail.com
+- Resume: [link](https://cliff-sun-fb3.notion.site/6160b3d8347e473687ab943adb703ccc)
